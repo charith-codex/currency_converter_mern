@@ -2,7 +2,8 @@
 
 Welcome to the Currency Converter App, a powerful and easy-to-use application that allows users to convert currencies with real-time exchange rates. Built with the MERN stack, this app provides an intuitive interface for handling international currency conversions.
 
-![image](https://github.com/user-attachments/assets/4b1e5fdf-a661-497e-af9a-2819ad120d87)
+![image](https://github.com/user-attachments/assets/f7487a7f-dc17-4598-b8d3-4957476fabaf)
+
 
 ## Features
 
